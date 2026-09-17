@@ -16,26 +16,19 @@ They can leverage a wide range of built-in capabilities, including effortless us
 ![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-555)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+
 # Store Front
-
-![0](https://github.com/user-attachments/assets/19103e28-7789-41b5-b67c-5a200c9eb004)
-
-![1](https://github.com/user-attachments/assets/fb557104-69de-418f-91b5-66b51d45f505)
-
-![2](https://github.com/user-attachments/assets/b0c46741-e443-43d0-8f09-c39528d0c3f2)
-
-![3](https://github.com/user-attachments/assets/0947ba1e-c304-4d55-ad99-08a79e24f3ff)
-
-![4](https://github.com/user-attachments/assets/5d2b8be5-6ed4-4ce0-8746-5b371f4746f4)
-
-![5](https://github.com/user-attachments/assets/8de61f33-10af-4d79-9dd1-f1f119dcaaee)
+<img width="634" height="1280" alt="image" src="https://github.com/user-attachments/assets/db0e87ea-ce39-4dd7-85b2-3300f8d920fd" />
+<img width="620" height="1280" alt="image" src="https://github.com/user-attachments/assets/653aef38-51af-4845-99ad-8d007bff6642" />
+<img width="633" height="1280" alt="image" src="https://github.com/user-attachments/assets/7642e047-d816-4ac4-bbfd-20438e80ecfd" />
+<img width="635" height="1280" alt="image" src="https://github.com/user-attachments/assets/2d98e1ae-e254-4c72-911a-7059143910e9" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/ae6c7ba5-453c-4d6a-a344-c1f1a8ca6890" />
+<img width="629" height="1280" alt="image" src="https://github.com/user-attachments/assets/ce230a9f-4923-4d69-94f6-e43309f44395" />
 
 # Admin Panel:
+<img width="601" height="897" alt="image" src="https://github.com/user-attachments/assets/e4b8d13c-d48a-4854-a376-2c755fadb06e" />
 
-![6](https://github.com/user-attachments/assets/2c42a88e-71b9-4acb-8e92-a910bf02d825)
-
-![7](https://github.com/user-attachments/assets/41865fbc-a607-4c47-852e-c7d119ff3549)
-
+<img width="1280" height="690" alt="image" src="https://github.com/user-attachments/assets/83b5d87c-875e-4055-ada9-68c3e593bd88" />
 
 
 # 🚀 Key Features:
