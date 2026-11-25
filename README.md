@@ -63,4 +63,4 @@ They can leverage a wide range of built-in capabilities, including effortless us
     Customised (Accept any payment method)
 
 # Channel: https://t.me/InDMDevBots
-#From InDMDev
+#By InDMDev
